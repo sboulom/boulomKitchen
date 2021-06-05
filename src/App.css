@@ -25,16 +25,16 @@ h2 {
   border-bottom: 1px ridge;
   min-height: 200px;
 }
-/* //controlZ3x */
+
 .site-footer {
-  background-image: linear-gradient(#f4a9a8, white);
-  padding: 50px 0;
+  background-image: linear-gradient(#CEC8FF, white);
+  padding: 20px 0;
 }
 
 .jumbotron {
   margin: 0;
   padding: 30px;
-  background-image: linear-gradient(to right, #f4a9a8, #f4a9a8, #f4a9a8);
+  background-image: linear-gradient(to right, #f4a9a8, #f4a9a8, #CEC8FF);
   color: #3046C5;
   text-align: center;
 }
@@ -44,7 +44,7 @@ h2 {
 } */
 
 .navbar-dark {
-  background-image: linear-gradient(to right, #f4a9a8, #f4a9a8, #f4a9a8);
+  background-image: linear-gradient(to right, #f4a9a8, #f4a9a8, #CEC8FF);
   padding: 30px;
 }
 

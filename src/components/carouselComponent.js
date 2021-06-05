@@ -22,6 +22,14 @@ const items = [
     header: 'Macarons',
     key: '3'
   },
+  {
+    src: '/asset/img/doughnut.png',
+    altText: 'Keto Doughnuts',
+    // caption: 'Slide 3',
+    header: 'Keto Doughnuts',
+    key: '4'
+  },
+
 ];
 
 const Carousel = () => <UncontrolledCarousel items={items} />;
