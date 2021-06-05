@@ -15,10 +15,9 @@ class Header extends Component {
                         </div>
                     </div>
                 </Jumbotron>
-
                 <Navbar dark sticky="top">
                     <div className="container">
-                        <NavbarBrand href="/">Boulom Kitchen</NavbarBrand>
+                        <NavbarBrand href="/"> BK </NavbarBrand>
                     </div>
                 </Navbar>
             </React.Fragment>

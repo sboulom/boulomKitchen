@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Header from './headerComponent';
 import Footer from './footerComponent';
+import Carousel from './carouselComponent'
 
 class Main extends Component {
 
@@ -8,7 +9,10 @@ class Main extends Component {
         return (
             <>
                 <Header />
-              
+                <div className = "container carouselPhoto">
+
+                <Carousel />
+                </div>
                 <Footer />
             </>
         );
